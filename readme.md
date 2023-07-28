@@ -23,8 +23,10 @@ Creare una funzione per capire se la parola inserita è palindroma
 
 ## SVOLGIMENTO
 
--
--
--
--
--
+- Chiedo una parola all'utente
+- Faccio una funzione che mi dice se la parola è palindroma
+  - ricevo la parola in ingresso
+  - per ogni lettera della parola
+    - creo una stringa al contrario
+  - se la parola uguale è palindroma
+  - altrimenti non è palindroma
